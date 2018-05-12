@@ -1,0 +1,28 @@
+_repo: Juvenile-Styles-Volume-4Original-Designs-for-Infants-and-Juveniles_39773
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoyer, Mary
+    birthdate: 1901
+    gutenberg_agent_id: '40224'
+    url: http://www.gutenberg.org/2009/agents/40224
+description: ''
+gutenberg_issued: '2012-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knitting -- Patterns'
+- !lcsh 'Children''s clothing'
+- !lcsh 'Infants'' clothing'
+- !lcsh 'Crocheting -- Patterns'
+- !lcc 'TT'
+title: 'Juvenile Styles: Original Designs for Infants and Juveniles, Volume 4'
+url: http://www.gutenberg.org/ebooks/39773
